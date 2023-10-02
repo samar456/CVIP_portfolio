@@ -14,7 +14,7 @@ const Projects = () => {
       imageSrc: portfolio,
       title: "Portfolio Website",
       overview: "A Portfolio Website having Skills,projects,contact and About section",
-      githubLink: "https://github.com/samar456/portfolio",
+      githubLink: "https://github.com/samar456/CVIP_portfolio",
     },
     {
       imageSrc: todo,
